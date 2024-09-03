@@ -3,7 +3,7 @@
 
 Model Architecture: 
 
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/ae050e8a-fd5d-4ede-b2a3-a92d314f8da5">
+![image](https://github.com/user-attachments/assets/577716fa-30e0-4cbf-8d42-2871785e5ea5)
 
 
 
